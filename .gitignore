@@ -1,0 +1,7 @@
+# dados brutos (grandes) não vão para o GitHub
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.csv
+__pycache__/
+.ipynb_checkpoints/
+.venv/

@@ -1,0 +1,13 @@
+﻿antecedente,consequente,support,confidence,lift
+causa_acidente=Demais falhas mecânicas ou elétricas + tipo_acidente=Incêndio,classificacao_acidente=Sem Vítimas,0.021453783366424003,0.974937343358396,6.348559493544419
+causa_acidente=Demais falhas mecânicas ou elétricas + condicao_metereologica=Céu Claro + tipo_acidente=Incêndio,classificacao_acidente=Sem Vítimas,0.014601257445400397,0.9733455882352942,6.338194363757354
+tipo_acidente=Incêndio,classificacao_acidente=Sem Vítimas,0.02374255459960291,0.9723320158102767,6.33159422182508
+causa_acidente=Demais falhas mecânicas ou elétricas + fase_dia=Pleno dia + tipo_acidente=Incêndio,classificacao_acidente=Sem Vítimas,0.011361129494815795,0.9716981132075472,6.327466399238371
+condicao_metereologica=Céu Claro + tipo_acidente=Incêndio,classificacao_acidente=Sem Vítimas,0.016352305316567395,0.9713349713349715,6.325101705960029
+fase_dia=Pleno dia + tipo_acidente=Incêndio,classificacao_acidente=Sem Vítimas,0.012560666225457755,0.9670912951167728,6.297467898386541
+causa_acidente=Demais falhas mecânicas ou elétricas + condicao_metereologica=Céu Claro,classificacao_acidente=Sem Vítimas,0.016972755349658062,0.5368512865242041,3.495847558720369
+causa_acidente=Demais falhas mecânicas ou elétricas,classificacao_acidente=Sem Vítimas,0.024900727994705493,0.5335302806499261,3.4742219604038285
+causa_acidente=Demais falhas mecânicas ou elétricas + fase_dia=Pleno dia,classificacao_acidente=Sem Vítimas,0.013415508493271564,0.4689156626506024,3.053466976182698
+causa_acidente=Ingestão de álcool pelo condutor + fase_dia=Plena Noite,classificacao_acidente=Sem Vítimas,0.012491727332892125,0.4035634743875278,2.6279091102871805
+causa_acidente=Ingestão de álcool pelo condutor,classificacao_acidente=Sem Vítimas,0.02011636885065078,0.39592944369063765,2.578198122822281
+causa_acidente=Ingestão de álcool pelo condutor + condicao_metereologica=Céu Claro,classificacao_acidente=Sem Vítimas,0.013305206265166557,0.38755020080321284,2.5236344912780946

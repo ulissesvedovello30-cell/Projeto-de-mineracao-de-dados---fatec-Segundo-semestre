@@ -1,0 +1,126 @@
+﻿antecedente,consequente,support,confidence,lift
+condicao_metereologica=Céu Claro + fase_dia=Pleno dia + tipo_acidente=Queda de ocupante de veículo,classificacao_acidente=Com Vítimas Feridas,0.018406684315023163,0.970909090909091,1.2534147584673565
+fase_dia=Pleno dia + tipo_acidente=Queda de ocupante de veículo,classificacao_acidente=Com Vítimas Feridas,0.026665563644385618,0.9684526790185278,1.2502436037780706
+condicao_metereologica=Céu Claro + tipo_acidente=Queda de ocupante de veículo,classificacao_acidente=Com Vítimas Feridas,0.030691594970218398,0.9598965071151359,1.2391978403383097
+tipo_acidente=Queda de ocupante de veículo,classificacao_acidente=Com Vítimas Feridas,0.045334215751158174,0.9530434782608697,1.2303507839181282
+causa_acidente=Trafegar com motocicleta (ou similar) entre as faixas + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.011954003970880213,0.940347071583514,1.2139601005288105
+causa_acidente=Trafegar com motocicleta (ou similar) entre as faixas,classificacao_acidente=Com Vítimas Feridas,0.01705548202073682,0.9335849056603773,1.2052303454501674
+causa_acidente=Trafegar com motocicleta (ou similar) entre as faixas + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.01069931612618575,0.9293413173652695,1.199751999178873
+fase_dia=Plena Noite + tipo_acidente=Queda de ocupante de veículo,classificacao_acidente=Com Vítimas Feridas,0.014683984116479153,0.9252823631624674,1.1945120100291458
+condicao_metereologica=Céu Claro + fase_dia=Pleno dia + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.029574784910655197,0.9135434412265756,1.1793574109624443
+fase_dia=Pleno dia + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.047236929185969556,0.9114126097366321,1.1766065708865712
+causa_acidente=Desrespeitar a preferência no cruzamento + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.010533862784028238,0.9106078665077473,1.1755676713136807
+causa_acidente=Reação tardia ou ineficiente do condutor + condicao_metereologica=Céu Claro + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.010478711669975733,0.9036860879904876,1.166631861123406
+causa_acidente=Desrespeitar a preferência no cruzamento + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.013718839620560336,0.9029038112522686,1.1656219651217412
+causa_acidente=Avarias e/ou desgaste excessivo no pneu + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.010244319435252593,0.9016990291262136,1.1640666272310216
+causa_acidente=Desrespeitar a preferência no cruzamento,classificacao_acidente=Com Vítimas Feridas,0.015607765276858592,0.8991262907069102,1.1607452984530497
+causa_acidente=Ausência de reação do condutor + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.014035958526362233,0.8961267605633803,1.1568729942532323
+causa_acidente=Reação tardia ou ineficiente do condutor + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.01622821530994926,0.8950570342205323,1.1554920093616483
+causa_acidente=Conversão proibida,classificacao_acidente=Com Vítimas Feridas,0.012533090668431503,0.8929273084479371,1.1527425967339846
+condicao_metereologica=Céu Claro + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.04846404147363777,0.8912271805273834,1.1505477821557122
+tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.07803882638429296,0.8911982364981893,1.1505104162749091
+causa_acidente=Desrespeitar a preferência no cruzamento + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.010271894992278844,0.8900836320191159,1.1490714950442755
+condicao_metereologica=Nublado + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.013470659607324067,0.8889899909008189,1.1476596368888876
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + fase_dia=Pleno dia + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.03645488638870505,0.887248322147651,1.1454111943312657
+fase_dia=Pleno dia + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.07093812045003309,0.881596984235778,1.1381154851756379
+condicao_metereologica=Nublado + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.017110633134789322,0.8782731776362349,1.1338245497161112
+condicao_metereologica=Céu Claro + fase_dia=Pleno dia + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.04907070372821531,0.877898371978293,1.1333406867596099
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + condicao_metereologica=Céu Claro + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.03906077652768586,0.8768183225007737,1.1319463750082077
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.05590944187072579,0.8754317789291882,1.1301563884974666
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.05418596955658504,0.8752783964365256,1.1299583762615177
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + condicao_metereologica=Céu Claro + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.0379163909110964,0.8738481093104542,1.1281119181230064
+causa_acidente=Avarias e/ou desgaste excessivo no pneu,classificacao_acidente=Com Vítimas Feridas,0.014132472975954114,0.8715986394557823,1.125207919446948
+causa_acidente=Manobra de mudança de faixa + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.032056585043017866,0.870134730538922,1.1233180565765462
+causa_acidente=Manobra de mudança de faixa + fase_dia=Pleno dia + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.01902713434811383,0.8695652173913043,1.1225828320420876
+fase_dia=Plena Noite + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.023563313478932275,0.8679532757745049,1.1205018633590234
+tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.11130873593646591,0.867504835589942,1.119922940418777
+causa_acidente=Manobra de mudança de faixa + condicao_metereologica=Céu Claro + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.021853628943304653,0.8665937670858391,1.118746778078029
+causa_acidente=Manobra de mudança de faixa + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.027658283697330685,0.8661485319516408,1.118171992762475
+condicao_metereologica=Céu Claro + fase_dia=Plena Noite + tipo_acidente=Tombamento,classificacao_acidente=Com Vítimas Feridas,0.014394440767703508,0.8656716417910447,1.1175563417493617
+causa_acidente=Manobra de mudança de faixa + condicao_metereologica=Céu Claro + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.018392896536510037,0.8656716417910447,1.1175563417493617
+condicao_metereologica=Céu Claro + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.0765221707478491,0.8652946679139383,1.1170696796864086
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.05850154423119347,0.8594288029167511,1.1094970224443517
+condicao_metereologica=Céu Claro + fase_dia=Pleno dia + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.04243878226340172,0.8592964824120602,1.1093262006084248
+causa_acidente=Acessar a via sem observar a presença dos outros veículos,classificacao_acidente=Com Vítimas Feridas,0.083953783366424,0.8579681555586868,1.1076113701493464
+causa_acidente=Manobra de mudança de faixa,classificacao_acidente=Com Vítimas Feridas,0.04748510919920582,0.8575697211155379,1.1070970031339373
+causa_acidente=Reação tardia ou ineficiente do condutor + condicao_metereologica=Nublado + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.010919920582395765,0.8571428571428571,1.1065459344414863
+fase_dia=Pleno dia + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.06238969777189499,0.8563588190764573,1.1055337646175272
+causa_acidente=Condutor Dormindo + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.010106441650121332,0.8543123543123543,1.102891839475382
+causa_acidente=Manobra de mudança de faixa + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.031863556143834106,0.8540280857354028,1.102524857197581
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + condicao_metereologica=Nublado,classificacao_acidente=Com Vítimas Feridas,0.01257445400397088,0.8531337698783911,1.101370322025951
+condicao_metereologica=Nublado + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.01578700639752923,0.8519345238095238,1.099822131020401
+causa_acidente=Ausência de reação do condutor + fase_dia=Pleno dia + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.023632252371497905,0.8493557978196233,1.0964930724668775
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + fase_dia=Plena Noite + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.014022170747849106,0.8489148580968281,1.0959238323996858
+condicao_metereologica=Sol + fase_dia=Pleno dia + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.011760975071696449,0.8428853754940712,1.0881399496953417
+condicao_metereologica=Céu Claro + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.061259099933818666,0.8419556566230812,1.086939710285663
+causa_acidente=Condutor deixou de manter distância do veículo da frente + condicao_metereologica=Céu Claro + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.023494374586366645,0.841897233201581,1.086864287386203
+condicao_metereologica=Sol + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.01199536730641959,0.8413926499032882,1.0862128853560045
+condicao_metereologica=Nublado + fase_dia=Pleno dia + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.013401720714758439,0.8408304498269896,1.0854871017791052
+condicao_metereologica=Garoa/Chuvisco + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.012243547319655858,0.8393194706994329,1.0835364726667107
+tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.09121994264284139,0.8390615091946735,1.0832034520366545
+causa_acidente=Reação tardia ou ineficiente do condutor + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.07226174718729318,0.835219123505976,1.0782430463972061
+causa_acidente=Condutor deixou de manter distância do veículo da frente + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.03441429516876241,0.835061893609903,1.0780400672778885
+causa_acidente=Ausência de reação do condutor + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.06979373483344363,0.8339373970345964,1.0765883756452397
+causa_acidente=Reação tardia ou ineficiente do condutor + condicao_metereologica=Céu Claro + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.04569269799249945,0.8335010060362174,1.0760250078459759
+causa_acidente=Condutor deixou de manter distância do veículo da frente + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.03404202514890801,0.8327150084317032,1.075010308316594
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.012174608427090228,0.8322337417530632,1.0743890073488576
+condicao_metereologica=Céu Claro + fase_dia=Plena Noite + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.02064030443414957,0.8321289605336298,1.0742537379110928
+causa_acidente=Reação tardia ou ineficiente do condutor + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.010340833884844474,0.8314855875831486,1.0734231625679609
+fase_dia=Plena Noite + tipo_acidente=Colisão transversal,classificacao_acidente=Com Vítimas Feridas,0.029340392675932053,0.83125,1.0731190260052332
+fase_dia=Pleno dia + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.09883079638208692,0.8306872175223085,1.0723924905654578
+causa_acidente=Condutor deixou de manter distância do veículo da frente + fase_dia=Pleno dia + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.02576935804103243,0.8302976454908929,1.0718895646600004
+causa_acidente=Condutor deixou de manter distância do veículo da frente,classificacao_acidente=Com Vítimas Feridas,0.05050463269358041,0.8300475866757308,1.0715667461671634
+condicao_metereologica=Céu Claro + fase_dia=Pleno dia + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.06629163909110965,0.8298239558163619,1.0712780453792048
+causa_acidente=Condutor deixou de manter distância do veículo da frente + fase_dia=Plena Noite,classificacao_acidente=Com Vítimas Feridas,0.011829913964262077,0.8297872340425532,1.071230638661439
+causa_acidente=Chuva + condicao_metereologica=Chuva,classificacao_acidente=Com Vítimas Feridas,0.010395984998896978,0.8294829482948295,1.0708378148115447
+causa_acidente=Chuva,classificacao_acidente=Com Vítimas Feridas,0.011664460622104567,0.8294117647058824,1.0707459189154382
+condicao_metereologica=Nublado + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.0636168100595632,0.8286637931034483,1.0697803098237286
+causa_acidente=Ausência de reação do condutor + condicao_metereologica=Céu Claro + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.04645102581072138,0.8275607958732499,1.0683563732061565
+causa_acidente=Reação tardia ou ineficiente do condutor + fase_dia=Pleno dia + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.0221431722920803,0.8274085522926327,1.0681598312717835
+causa_acidente=Condutor deixou de manter distância do veículo da frente + condicao_metereologica=Céu Claro + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.025810721376571807,0.8261253309796999,1.0665032307238331
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + condicao_metereologica=Céu Claro + fase_dia=Plena Noite,classificacao_acidente=Com Vítimas Feridas,0.015483675270240459,0.825735294117647,1.0659997047358485
+causa_acidente=Condutor deixou de manter distância do veículo da frente + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.038219722038385175,0.8232848232848233,1.0628362197753987
+condicao_metereologica=Sol + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.04629936024707699,0.8212276840303253,1.0601805141836464
+causa_acidente=Velocidade Incompatível + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.026527685859254357,0.8208191126279863,1.059653060655428
+fase_dia=Pleno dia + tipo_acidente=Atropelamento de Pedestre,classificacao_acidente=Com Vítimas Feridas,0.011747187293183322,0.8200192492781521,1.0586204608612488
+causa_acidente=Manobra de mudança de faixa + fase_dia=Plena Noite,classificacao_acidente=Com Vítimas Feridas,0.010657952790646371,0.8197242841993637,1.058239669717724
+condicao_metereologica=Sol,classificacao_acidente=Com Vítimas Feridas,0.047443745863666446,0.8190906926922161,1.0574217219270048
+condicao_metereologica=Nublado + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.025521178027796163,0.8186643078283946,1.0568712717498407
+causa_acidente=Acessar a via sem observar a presença dos outros veículos + fase_dia=Plena Noite,classificacao_acidente=Com Vítimas Feridas,0.021950143392896537,0.8185089974293059,1.0566707706440381
+condicao_metereologica=Chuva + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.038495477608647695,0.8175695461200586,1.0554579669460424
+fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.4548036620339731,0.81701094763957,1.054736832922211
+causa_acidente=Velocidade Incompatível + condicao_metereologica=Céu Claro + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.013636112949481579,0.8166804293971924,1.0543101437019557
+condicao_metereologica=Chuva + fase_dia=Pleno dia + tipo_acidente=Saída de leito carroçável,classificacao_acidente=Com Vítimas Feridas,0.011954003970880213,0.8156161806208843,1.0529362301858545
+condicao_metereologica=Céu Claro + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.2907290977277741,0.8128758673862762,1.0493985673055275
+causa_acidente=Reação tardia ou ineficiente do condutor + condicao_metereologica=Céu Claro + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.02221211118464593,0.8128153380423815,1.049320425722893
+causa_acidente=Reação tardia ou ineficiente do condutor + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.034497021839841165,0.8097087378640777,1.0453098972927828
+causa_acidente=Reação tardia ou ineficiente do condutor + condicao_metereologica=Nublado,classificacao_acidente=Com Vítimas Feridas,0.02015773218619016,0.8081813156440023,1.043338040637016
+causa_acidente=Ausência de reação do condutor + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.03879880873593647,0.8076923076923077,1.042706745916016
+causa_acidente=Animais na Pista + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.010340833884844474,0.8073196986006459,1.0422257186612494
+tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.15953838517538055,0.8057799442896937,1.040237941642956
+causa_acidente=Reação tardia ou ineficiente do condutor + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.07475733509816898,0.8051678051678052,1.0394476882435446
+causa_acidente=Condutor Dormindo,classificacao_acidente=Com Vítimas Feridas,0.02346679902934039,0.8043478260869565,1.038389119638931
+fase_dia=Pleno dia + tipo_acidente=Colisão lateral sentido oposto,classificacao_acidente=Com Vítimas Feridas,0.012078093977498346,0.8036697247706422,1.0375137110084396
+causa_acidente=Reação tardia ou ineficiente do condutor,classificacao_acidente=Com Vítimas Feridas,0.11962276637988087,0.803407722937309,1.0371754744343666
+condicao_metereologica=Céu Claro + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.10571089786013678,0.8029953917050692,1.0366431670775753
+tipo_acidente=Capotamento,classificacao_acidente=Com Vítimas Feridas,0.015194131921464814,0.8026219956300072,1.0361611238506465
+causa_acidente=Condutor Dormindo + tipo_acidente=Saída de leito carroçável,classificacao_acidente=Com Vítimas Feridas,0.011085373924553277,0.8023952095808383,1.035868349806501
+causa_acidente=Condutor Dormindo + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.01564912861239797,0.8009880028228653,1.034051687736722
+causa_acidente=Animais na Pista,classificacao_acidente=Com Vítimas Feridas,0.014408228546216633,0.8007662835249043,1.033765454717685
+causa_acidente=Ausência de reação do condutor + condicao_metereologica=Céu Claro + tipo_acidente=Colisão traseira,classificacao_acidente=Com Vítimas Feridas,0.025976174718729317,0.7972915785019044,1.0292797138816703
+condicao_metereologica=Céu Claro + fase_dia=Plena Noite + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.013332781822192809,0.7965403624382208,1.0283099162869882
+causa_acidente=Reação tardia ou ineficiente do condutor + fase_dia=Pleno dia + tipo_acidente=Saída de leito carroçável,classificacao_acidente=Com Vítimas Feridas,0.012174608427090228,0.7962128043282236,1.0278870485095923
+fase_dia=Pleno dia + tipo_acidente=Saída de leito carroçável,classificacao_acidente=Com Vítimas Feridas,0.05823957643944408,0.7951807228915662,1.0265546620722221
+fase_dia=Anoitecer,classificacao_acidente=Com Vítimas Feridas,0.042824840061769245,0.7911360163015791,1.0213330661668703
+causa_acidente=Ausência de reação do condutor + condicao_metereologica=Nublado,classificacao_acidente=Com Vítimas Feridas,0.019399404367968234,0.7900056148231331,1.019873751479899
+fase_dia=Plena Noite + tipo_acidente=Colisão lateral mesmo sentido,classificacao_acidente=Com Vítimas Feridas,0.01995091550849327,0.7876973326075122,1.01689382779512
+tipo_acidente=Atropelamento de Animal,classificacao_acidente=Com Vítimas Feridas,0.012298698433708361,0.7872903795233892,1.0163684634675847
+causa_acidente=Animais na Pista + tipo_acidente=Atropelamento de Animal,classificacao_acidente=Com Vítimas Feridas,0.011430068387381425,0.7835538752362949,1.0115447475683594
+condicao_metereologica=Céu Claro + fase_dia=Anoitecer,classificacao_acidente=Com Vítimas Feridas,0.02716192367085815,0.7833001988071571,1.011217258843479
+causa_acidente=Ausência de reação do condutor,classificacao_acidente=Com Vítimas Feridas,0.12378667549084492,0.7828058243961985,1.0105790361831846
+condicao_metereologica=Nublado,classificacao_acidente=Com Vítimas Feridas,0.12315243767924113,0.7811106252732838,1.0083905845360661
+causa_acidente=Velocidade Incompatível,classificacao_acidente=Com Vítimas Feridas,0.04399680123538496,0.7805772994129159,1.007702076713123
+causa_acidente=Ausência de reação do condutor + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.08145819545554821,0.7792139277235559,1.0059420044131302
+causa_acidente=Ausência de reação do condutor + fase_dia=Pleno dia + tipo_acidente=Saída de leito carroçável,classificacao_acidente=Com Vítimas Feridas,0.01234006176924774,0.7782608695652173,1.0047116346776683
+causa_acidente=Ultrapassagem Indevida + fase_dia=Pleno dia,classificacao_acidente=Com Vítimas Feridas,0.011692036179130819,0.7751371115173674,1.0006789559483034
+causa_acidente=Velocidade Incompatível + condicao_metereologica=Céu Claro,classificacao_acidente=Com Vítimas Feridas,0.02388043238473417,0.7749440715883669,1.0004297471415795
